@@ -61377,7 +61377,7 @@ return A.a_(A.iW(o,t.H),$async$rB)
 case 2:return A.U(null,r)}})
 return A.V($async$rB,r)}}
 A.DW.prototype={
-U(a){return new A.uv(B.EH,"Flutter Demo",A.ahl(null,B.fQ,null),null)}}
+U(a){return new A.uv(B.EH,"From T\xfa",A.ahl(null,B.fQ,null),null)}}
 A.uM.prototype={
 ao(){var s,r,q,p,o="[DEFAULT]",n=A.anb(),m=Date.now(),l=A.YO(2022,12,16,0,0,0,0,!1)
 if(!A.hg(l))A.a4(A.it(l))
